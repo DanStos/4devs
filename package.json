@@ -1,0 +1,27 @@
+{
+  "name": "4devs",
+  "version": "1.0.0",
+  "description": "A lib that generates \"Pessoa Física (PF)\", \"Pessoa Jurídica (PJ)\", \"CPF\" and Credit cards",
+  "main": "datagenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanStos/4devs.git"
+  },
+  "keywords": [
+    "4devs"
+  ],
+  "author": "Danilo Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanStos/4devs/issues"
+  },
+  "homepage": "https://github.com/DanStos/4devs#readme",
+  "dependencies": {
+    "form-data": "^2.5.1",
+    "jsdom": "^15.1.1",
+    "node-fetch": "^2.6.0"
+  }
+}
