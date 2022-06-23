@@ -21,7 +21,7 @@
   "homepage": "https://github.com/DanStos/4devs#readme",
   "dependencies": {
     "form-data": "^2.5.1",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "node-fetch": "^2.6.0"
   }
 }
